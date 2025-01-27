@@ -1,41 +1,100 @@
-{Name of the Project} - Your project should have a catchy and functional name
+Teamwork Contract
 
-The descriptions and information in all readme files in the starter repo (including this one) must be edited. All section descriptions must be deleted. Any failure to remove the description information (like the statement that you are currently reading) will be heavily penalized!
-Executive Summary
+Team X
+Team Members: [List all student names here]
+Electrical and Computer Engineering Department
+Tennessee Technological University
 
-Give the elevator pitch and abstract for the project. It should allow interested visitors to broadly understand the motivation for the project and what the project has accomplished.
-Capabilities
+The following are suggestions for items to include in your team contract. You get to customize this document as you see fit. Note that your final contract, must be approved by your instructor.
+Introduction
 
-Here explain in more detail (though not as much as will be given in the datasheet) what the version of this project in this repo is capable of doing.
-Salient Outcomes
+This teamwork contract outlines the agreed-upon expectations, responsibilities, and guidelines for effective collaboration among the members of Team X. By adhering to this contract, we aim to foster a productive, respectful, and supportive team environment conducive to the success of our project.
+Team Expectations
 
-Projects often have some outcomes that are more interesting than others. Here, highlight those things that you found interesting!
-Project Demonstration & Images
+In this section, the team will discuss and clearly define their collective expectations in various key areas. Be specific to ensure mutual understanding.
+1. Participation (Engagement and Effort in the Project)
 
-Give a link to a video of the project being demonstrated. The video should be hosted on the capstone youtube.
+    Expectation: Each team member is expected to:
+        Actively participate in all team meetings and discussions.
+        Engage fully in project activities and contribute ideas.
+        Notify the team in advance if unable to attend a meeting or meet an obligation.
 
-Below the video link show some well-taken, appropriately sized images of the project.
-About Us
-Team
+2. Contribution (Progress on the Project)
 
-Give a brief bio for each team member and their broad contribution to the project (no need to be terribly specifc).
-Faculty Supervisor
+    Expectation: Each team member is expected to:
+        Complete assigned tasks diligently and on time.
+        Contribute equal effort to the project's progress.
+        Share expertise and assist others when needed.
 
-Tell who the faculty supervisor was for the project
-Stakeholders
+3. Communication
 
-Tell a bit about the customer for the project. Also discuss any other groups (specific or general) that are expected to be impacted by the project.
-Recognitions
+    Expectation: Team communication should be:
+        Professional, respectful, and considerate.
+        Conducted through agreed-upon channels (e.g., email, Slack, Microsoft Teams).
+        Responsive, with replies to inquiries within 24 hours on weekdays.
 
-Use this space to recognize anyone that you feel has had an impact on the project. Be sure to recognize the work of previous teams if you referenced it for style or content.
-Repo Organization
+4. Meetings
 
-Give the layout of the repo and what can be found where. Make it easy on those who are interested by making the headings of the various things in this section clickable links to the relevant folder or file in the repo.
-Reports
+    Expectation: Regarding team meetings:
+        Frequency: The team will meet [specify frequency, e.g., twice a week on Mondays and Thursdays at 4 PM].
+        Attendance: Members are expected to attend all meetings; absences should be communicated in advance.
+        Preparation: Members should come prepared, having completed any agreed-upon tasks or research.
 
-In the reports section of this repository information about the individual expectations for the reports and how they should be housed is provided.
-Documentation
+5. Conduct
 
-In the documentaion section information regarding the documentation that is required and how it should be organized is given.
-Software
-In the software directory of the repo information regarding how each team is expected to document software can be found.
+    Expectation: Team members will:
+        Treat each other with respect and courtesy.
+        Listen actively and allow others to express their ideas without interruption.
+        Address disagreements professionally and constructively.
+
+6. Conflict Resolution
+
+    Expectation: The team will:
+        Address conflicts promptly through open dialogue.
+        Use a step-by-step approach to resolve issues:
+            Discuss the issue privately between involved parties.
+            If unresolved, bring the issue to the team for discussion.
+            Seek input from the instructor if necessary.
+        Focus on finding mutually acceptable solutions.
+
+7. Deadlines
+
+    Expectation: Regarding deadlines:
+        All team-set and instructor-set deadlines are to be met.
+        If a member anticipates difficulty meeting a deadline, they must inform the team as soon as possible.
+        The team will collaboratively adjust workloads to ensure project timelines are maintained.
+
+Unique Roles (Optional)
+
+Assigning specific roles can help streamline team operations. Below, define any unique roles, their responsibilities, the powers granted, and any changes to expectations.
+
+a. Team Leader/Coordinator: [Name of student who will fill this role]
+
+    Responsibilities:
+        Schedule and coordinate team meetings.
+        Facilitate meetings to ensure all voices are heard.
+        Monitor project timelines and milestones.
+    Powers Granted:
+        Authority to make minor decisions to keep the project on track after team consultation.
+    Expectation Changes:
+        In addition to regular duties, the Team Leader will handle organizational tasks but remains equally responsible for project work.
+
+b. Recorder/Secretary: [Name of student who will fill this role]
+
+    Responsibilities:
+        Take detailed notes during meetings.
+        Distribute meeting minutes to all team members within 24 hours.
+    Powers Granted:
+        May request clarifications during meetings to ensure accurate record-keeping.
+    Expectation Changes:
+        Ensures documentation is maintained without reducing their responsibility in other project areas.
+
+(Add or modify roles based on your team's needs.)
+Additional Agreements
+
+Include any other important agreements the team decides upon.
+Team Member Signatures
+
+By typing our names below, we acknowledge that we have read, understand, and agree to abide by the terms of this Teamwork Contract.
+
+[List all student names here]
